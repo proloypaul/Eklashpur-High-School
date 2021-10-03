@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "teacher": "Saleh Ahmed",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ian_Robert_Young.jpg",
+      "phone": 7947900988,
+      "subject": "Physics",
+      "education": "BCS cadre",
+      "position": "Head Teacher",
+      "selary": 45000
+    },
+    {
+      "id": 2,
+      "teacher": "Rajib Karmokar",
+      "img": "https://www.sthelensstar.co.uk/resources/images/2014188.jpg?display=1&htype=100001&type=responsive-gallery",
+      "phone": 56744367345,
+      "subject": "Math",
+      "education": "BA",
+      "position": "Assistant Teacher",
+      "selary": 40000
+    }
+  ]
