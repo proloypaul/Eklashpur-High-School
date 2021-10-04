@@ -1,22 +1,82 @@
 [
-    {
-      "id": 1,
-      "teacher": "Saleh Ahmed",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ian_Robert_Young.jpg",
-      "phone": 7947900988,
-      "subject": "Physics",
-      "education": "BCS cadre",
-      "position": "Head Teacher",
-      "selary": 45000
-    },
-    {
-      "id": 2,
-      "teacher": "Rajib Karmokar",
-      "img": "https://www.sthelensstar.co.uk/resources/images/2014188.jpg?display=1&htype=100001&type=responsive-gallery",
-      "phone": 56744367345,
-      "subject": "Math",
-      "education": "BA",
-      "position": "Assistant Teacher",
-      "selary": 40000
-    }
-  ]
+  {
+    "id": 1,
+    "teacher": "Saleh Ahmed",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ian_Robert_Young.jpg",
+    "phone": 7947900988,
+    "subject": "Physics",
+    "education": "BCS cadre",
+    "position": "Head Teacher",
+    "salary": 45000
+  },
+  {
+    "id": 2,
+    "teacher": "Rajib Karmokar",
+    "img": "https://www.sthelensstar.co.uk/resources/images/2014188.jpg?display=1&htype=100001&type=responsive-gallery",
+    "phone": 56744367345,
+    "subject": "Math",
+    "education": "BA",
+    "position": "Assistant Teacher",
+    "salary": 40000
+  },
+  {
+    "id": 3,
+    "teacher": "Tajmul huda",
+    "img": "https://thumbs.dreamstime.com/b/young-male-teacher-standing-near-blackboard-young-male-teacher-standing-near-blackboard-white-background-114171081.jpg",
+    "phone": 46565756565,
+    "subject": "English",
+    "education": "Msc",
+    "position": "English Teacher",
+    "salary": 35000
+  },
+  {
+    "id": 4,
+    "teacher": "Nirmol Das",
+    "img": "https://envato-shoebox-0.imgix.net/cc76/7c7e-3e5e-46ba-812b-d2a4a66ab76b/fullsize-120.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=61ca658898bb412c6fd341ec8403b684",
+    "phone": 75948989859,
+    "subject": "Math",
+    "education": "BCS cadre",
+    "position": "Assistant Teacher",
+    "salary": 40000
+  },
+  {
+    "id": 5,
+    "teacher": "Shorav Hasan",
+    "img": "https://businessguide.ezega.com/images/full/pict0-13926.jpg",
+    "phone": 56676767,
+    "subject": "Bangla",
+    "education": "BA",
+    "position": "Bangla Teacher",
+    "salary": 35000
+  },
+  {
+    "id": 6,
+    "teacher": "Taslima",
+    "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
+    "phone": 5756767687,
+    "subject": "Physics",
+    "education": "BCS Cadre",
+    "position": "Physics Teacher",
+    "salary": 40000
+  },
+  {
+    "id": 7,
+    "teacher": "Archona Acharja",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130289814%2F0x0.jpg",
+    "phone": 8908899655,
+    "subject": "Social Science",
+    "education": "MA",
+    "position": "Social Teacher",
+    "salary": 30000
+  },
+  {
+    "id": 8,
+    "teacher": "Mahammod Ali",
+    "img": "https://www.thebalancecareers.com/thmb/mA1EU2tgVbzc6vkoreIvq_uIlok=/1885x1414/smart/filters:no_upscale()/teacher-pointing-while-teaching-in-classroom-962347986-75ce5f976522477686ca12d3e7972054.jpg",
+    "phone": 345546565,
+    "subject": "Biology",
+    "education": "MBBA",
+    "position": "Biology Teacher",
+    "salary": 40000
+  }
+]
