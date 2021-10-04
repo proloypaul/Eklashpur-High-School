@@ -16,6 +16,9 @@ const Service = (props) => {
                     <p className="m-5">Salary: {salary}</p>
                     <p className="m-5">Education: {education}</p>
                     <p className="m-5">Phone: {phone}</p>
+                    <div className="text-center">
+                        <button className="bg-green-400 px-5 py-2 font-bold rounded">Contact Us</button>
+                    </div>
                 </div>
             </div>
             
