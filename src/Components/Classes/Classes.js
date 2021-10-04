@@ -10,6 +10,7 @@ const Classes = () => {
     }, [])
    
     return (
+        // class section data loaded 
         <div className="p-20">
             <h1 className="text-4xl font-bold my-10 text-center">Our Classes</h1>
             {

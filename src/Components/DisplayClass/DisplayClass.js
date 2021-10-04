@@ -5,6 +5,7 @@ const DisplayClass = (props) => {
     // console.log(props.singleClass)
     const {teacher, img, subject, time, day} = props.singleClass
     return (
+        // class section display data 
         <div className="my-5">
             <div className="flex justify-between items-center border-2 border-gray-200 rounded w-full py-2 px-5">
                 <div className="flex items-center gap-2">
