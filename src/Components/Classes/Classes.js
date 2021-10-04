@@ -11,7 +11,7 @@ const Classes = () => {
    
     return (
         <div className="p-20">
-            <h1>Classes</h1>
+            <h1 className="text-4xl font-bold my-10 text-center">Our Classes</h1>
             {
                 showClass.map(singleClass => <DisplayClass key={singleClass.id} singleClass={singleClass}></DisplayClass>)
             }

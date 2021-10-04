@@ -11,7 +11,7 @@ const Service = (props) => {
                     <img src={img} alt="Empty!" className="border-0 rounded "/>
                 </div>
                 <div className="text-xl font-semibold">
-                    <p className="m-5">Teacher Name: {teacher}</p>
+                    <p className="m-5">Teacher: {teacher}</p>
                     <p className="m-5">{position}</p>
                     <p className="m-5">Salary: {salary}</p>
                     <p className="m-5">Education: {education}</p>
