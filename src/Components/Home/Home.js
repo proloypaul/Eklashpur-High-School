@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="mx-32 text-4xl text-headerTitle py-10 font-bold ">
                     <p className="text-headerTitle">We are determind to</p>
                     <p>Achive the highest</p>
-                    <p>Standards</p>
+                    <p>Standards Your are welCome</p>
                 </div>
                 <div className="w-3/4 m-auto">
                     <img src={img} alt="Empty!"/>
