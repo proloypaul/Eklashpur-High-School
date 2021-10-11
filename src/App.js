@@ -6,7 +6,9 @@ import Classes from './Components/Classes/Classes';
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
+import Login from './Components/Login/Login';
 import NotFind from './Components/NotFind/NotFind';
+import Register from './Components/Register/Register';
 import Searvices from './Components/Services/Searvices';
 
 function App() {
@@ -29,6 +31,12 @@ function App() {
           </Route>
           <Route path="/classes">
             <Classes></Classes>
+          </Route>
+          <Route path="/register">
+            <Register></Register>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
           <Route path="*">
             <NotFind></NotFind>
