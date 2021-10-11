@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import useFirebase from '../../Hooks/useFirebase';
+import useAuth from '../../Context/useAuth';
 
 const Register = () => {
-    const {signInUsingGoogle} = useFirebase()
+    const {signInUsingGoogle} = useAuth()
     return (
         <div>
             <h1>Register Section</h1>
